@@ -1,0 +1,9 @@
+python,sql,excel,power_bi,machine_learning,statistics,pandas,numpy,role
+1,1,1,1,0,0,0,0,Data Analyst
+1,1,1,1,1,1,1,1,Data Scientist
+1,0,0,0,1,1,1,1,Machine Learning Engineer
+0,1,1,1,0,0,0,0,Business Analyst
+1,1,1,0,1,1,1,1,Data Scientist
+1,1,1,1,0,1,0,0,Data Analyst
+1,0,0,0,1,1,1,0,Machine Learning Engineer
+0,1,1,1,0,0,0,0,Business Analyst
